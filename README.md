@@ -8,11 +8,6 @@ In the `airports.geojson` file there is a field `CNTL_TWR` which indicates if th
 
 ![](img/towers.png)
 
-<!---
-I reallllllly wanted to embed the map here :(((((
-<script type="text/javascript" src="main.js"></script>
---->
-
 <h3>Libraries</h3>
 <span>&#9992;</span> Basemap: https://leaflet-extras.github.io/leaflet-providers/preview/ <br>
 <span>&#9992;</span> Font: https://fonts.google.com/ <br>
