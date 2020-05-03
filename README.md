@@ -8,6 +8,11 @@ In the `airports.geojson` file there is a field `CNTL_TWR` which indicates if th
 
 ![](img/towers.PNG)
 
+<h3> Functions </h3>
+<span>&#9992;</span> Shows locations of airport towers <br>
+<span>&#9992;</span> Choropleth map shows the general freqencies of where airport towers are located at <br>
+<span>&#9992;</span> Popups show the Airport Names <br>
+
 <h3>Libraries</h3>
 <span>&#9992;</span> Basemap: https://leaflet-extras.github.io/leaflet-providers/preview/ <br>
 <span>&#9992;</span> Font: https://fonts.google.com/ <br>
