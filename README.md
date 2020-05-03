@@ -6,7 +6,7 @@ In the `airports.geojson` file there is a field `CNTL_TWR` which indicates if th
 
 <p>This map displays all the airports in the United States of America in 2012.</p>
 
-![](img/towers.png)
+![](img/towers.PNG)
 
 <h3>Libraries</h3>
 <span>&#9992;</span> Basemap: https://leaflet-extras.github.io/leaflet-providers/preview/ <br>
