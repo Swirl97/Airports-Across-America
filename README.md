@@ -4,14 +4,14 @@
 
 In the `airports.geojson` file there is a field `CNTL_TWR` which indicates if the airport has an air traffic control tower present.
 
-<p>This map displays all the airports in the contiguous United States of America in 2012.</p>
+<p>This map displays all the airports in the United States of America in 2012.</p>
 
-![](img/towers.PNG)
+![](img/towers.png)
 
-<h3> Functions </h3>
-<span>&#9992;</span> Shows locations of airport towers <br>
-<span>&#9992;</span> Choropleth map shows the general freqencies of where airport towers are located at <br>
-<span>&#9992;</span> Popups show the Airport Names <br>
+<!---
+I reallllllly wanted to embed the map here :(((((
+<script type="text/javascript" src="main.js"></script>
+--->
 
 <h3>Libraries</h3>
 <span>&#9992;</span> Basemap: https://leaflet-extras.github.io/leaflet-providers/preview/ <br>
