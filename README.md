@@ -4,7 +4,7 @@
 
 In the `airports.geojson` file there is a field `CNTL_TWR` which indicates if the airport has an air traffic control tower present.
 
-<p>This map displays all the airports in the United States of America in 2012.</p>
+<p>This map displays all the airports in the contiguous United States of America in 2012.</p>
 
 ![](img/towers.PNG)
 
